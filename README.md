@@ -1,4 +1,4 @@
-# go-dns
+# dns-resolver
 A basic DNS resolver written in Go. Ref John Crickett's coding [challenges](https://codingchallenges.fyi/challenges/challenge-dns-resolver).
 
 ```
